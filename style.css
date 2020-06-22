@@ -1,0 +1,51 @@
+body {
+  /* font-family: 'Lato', sans-serif; */
+}
+
+
+
+/* Navigation */
+
+
+.logo {
+  width:100px;
+}
+
+.navbar {
+  background-color: white;
+}
+
+
+/* Main Area */
+
+
+#main {
+  height:100%;
+  background-color: #1e6fba;
+  padding-top: 75px;
+}
+
+
+.display-4 {
+font-weight: lighter;
+
+}
+
+.display-5 {
+font-weight: 100;
+
+}
+
+/* Footer */
+
+footer {
+height: 200px;
+
+}
+
+#red-box {
+  background-color: red;
+  width:500px;
+  height: 250px;
+  z-index: -5;
+}
