@@ -1,7 +1,6 @@
 body {
-  /* font-family: 'Lato', sans-serif; */
+   font-family: 'Lato', sans-serif; 
 }
-
 
 
 /* Navigation */
@@ -13,6 +12,7 @@ body {
 
 .navbar {
   background-color: white;
+    margin-bottom: 35px;
 }
 
 
@@ -48,4 +48,8 @@ height: 200px;
   width:500px;
   height: 250px;
   z-index: -5;
+}
+
+#videos {
+    margin-top: 50px;
 }
