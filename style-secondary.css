@@ -61,10 +61,23 @@ font-weight: 100;
   display: inline;
 }
 
+.card {
+    box-sizing: border-box;
+    text-align: center;
+    padding: 25px 150px;
+    box-shadow: 0px 0px 50px #ededed;
+    background-color: white;
+    margin: 15px 15px;
+    box-sizing: border-box;
+    
+    
+}
+
 .module-section {
   background-color: white;
   border-radius: 5px;
   margin: 15px 0px;
+    padding:20px 0;
 }
 
 #videos {
@@ -73,6 +86,11 @@ font-weight: 100;
   
 }
 
+
+.fas {
+    color:#1e6fba;
+    font-size:14px;
+}
 
 .iframe-container{
   position: relative;
