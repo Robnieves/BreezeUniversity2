@@ -1,6 +1,6 @@
 body {
 
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Khula', sans-serif;
 }
 
 
@@ -41,17 +41,20 @@ font-weight: 100;
 /* Footer */
 
 footer {
-height: 200px;
+height: 100%;
 
 }
 
+/*
 #red-box {
   background-color: red;
   width:500px;
   height: 250px;
   z-index: -5;
 }
+*/
 
 #videos {
     margin-top: 50px;
 }
+
