@@ -1,6 +1,7 @@
 body {
   font-family: 'Khula', sans-serif;
   background: black;
+    height: 100%;
 }
 
 /* Navigation */
@@ -32,9 +33,10 @@ body {
 /* Main Area */
 #main {
   background-color: #1e6fba;
-  padding-top: 95px;
-  padding-bottom: 95px;
+  padding-top: 125px;
+  padding-bottom: 125px;
   font-family: 'Lato', sans-serif;
+    height: 100%;
 }
 
 .display-4 {
