@@ -1,0 +1,73 @@
+body {
+
+    font-family: 'Khula', sans-serif;
+    background: black;
+}
+
+
+/* Navigation */
+
+.bg-light {
+    background-color:white;
+}
+
+.nav-link {
+    color:black !important;
+}
+
+.nav-link:hover {
+    color:gray !important;
+}
+
+.navbar-toggler{
+    color:black !important;
+    
+}
+
+.navbar-toggler-icon {
+    color:black !important;
+    border-color:black !important;
+}
+
+.logo {
+  width:100px;
+}
+
+
+/* Main Area */
+
+
+#main {
+  background-color: #1e6fba;
+  padding-top: 95px;
+    padding-bottom: 95px;
+    font-family: 'Lato', sans-serif; 
+}
+
+
+.display-4 {
+font-weight: lighter;
+
+}
+
+.display-5 {
+font-weight: 100;
+
+}
+
+.section-heading {
+    font-weight: 900;
+}
+
+#videos {
+    margin-top: 50px;
+}
+
+
+.bg-dark {
+    background-color: black !important;
+}
+
+.nav-link-white {
+    color:white;
+}
